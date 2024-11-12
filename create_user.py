@@ -12,6 +12,7 @@ payload = {
     "identifyId": "sam+dromo1@inflcr.com",
     "email": "sam+dromo1@inflcr.com",
     "propertyKeys": ["AP-CQ7AHGCXYGO4-2"]
+    # current key is for influencer web app
 }
 
 # Make the POST request
